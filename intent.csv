@@ -1,0 +1,61 @@
+text,label
+Is this Heinz ketchup?,product info
+How many pounds is this product?,product info
+Can you tell me what this item is?,product info
+What brand is this cereal box?,product info
+Is this a bottle of olive oil or vinegar?,product info
+How many servings are in this package?,product info
+Can you read the ingredients list on this item?,product info
+Does this product contain nuts?,product info
+What is the expiration date on this milk?,product info
+Is this low-fat or full-fat yogurt?,product info
+How much sugar is in this soda?,product info
+Is this canned corn or peas?,product info
+How many eggs are in this carton?,product info
+Is this whole grain bread?,product info
+Is this product organic?,product info
+Can you tell me the price of this item?,product info
+Is this shampoo or conditioner?,product info
+What is the volume of this juice bottle?,product info
+How many grams of protein are in this bar?,product info
+Is this product gluten-free?,product info
+Where is the dairy section?,get directions
+How do I get to the bread aisle?,get directions
+Can you guide me to the checkout counter?,get directions
+Where is the frozen food section?,get directions
+How do I find the spice rack?,get directions
+Which way to the produce section?,get directions
+Where can I find bottled water?,get directions
+Where are the cleaning supplies?,get directions
+How do I reach the snack aisle?,get directions
+Can you show me the way to the meat section?,get directions
+Where is the pasta and rice shelf?,get directions
+Where can I find cooking oil?,get directions
+How do I get to the condiments section?,get directions
+Where are the paper towels?,get directions
+Where is the pet food located?,get directions
+Can you take me to the baby products aisle?,get directions
+How do I get to the customer service desk?,get directions
+Where is the restroom?,get directions
+Where is the exit?,get directions
+How do I get to the entrance?,get directions
+Could you repeat that?,repeat
+I didn't catch that can you say it again?,repeat
+Please repeat the last message.,repeat
+Can you rephrase your previous statement?,repeat
+Say that one more time.,repeat
+I missed that could you go over it again?,repeat
+Repeat please.,repeat
+Can you say that again more slowly?,repeat
+Could you restate that?,repeat
+I didn't understand could you repeat it?,repeat
+Can you reword your last sentence?,repeat
+Say that again please.,repeat
+Please repeat yourself.,repeat
+Can you clarify by repeating?,repeat
+Could you run that by me once more?,repeat
+I missed part of that can you repeat?,repeat
+Could you say that again in different words?,repeat
+Please say that one more time.,repeat
+Can you repeat the instruction?,repeat
+Would you mind repeating that?,repeat
